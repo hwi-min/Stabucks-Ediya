@@ -12,3 +12,8 @@
 - Selenium, BeautifulSoup, MySQL, GoogleMaps, AWS 활용
 - make_df & EDA의 크롤링을 그대로 사용하되, 이번에는 dataframe이 아닌 AWS에 MySQL을 활용하여 데이터 베이스를 생성   
 - Tableau 시각화를 위해 최종적으로는 하나의 스타벅스에 모든 이디야 매장을 연결시킨 dataframe을 데이터베이스로부터 가져와 생성함
+
+## 파일3. Starbucks&Ediya_maching.csv
+- 파일2에서 생성한 dataframe
+- 1개의 스타벅스 매장에 모든 이디야 매장을 연결시킨 데이터프레임을 csv 파일로 생성한 것   
+- 목적: Tableau 시각화에 활용
